@@ -1,5 +1,7 @@
 # Skillfront - ISO/IEC 20000 IT Service Management Associate™ 
 
+https://www.skillfront.com/Badges/36512523731608
+
 SKILLS
 
 Chapter 1. Why Does ISO/IEC 27001 Matter? <br>
